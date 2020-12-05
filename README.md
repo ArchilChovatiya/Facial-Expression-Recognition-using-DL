@@ -11,6 +11,7 @@ Facial Expression recognition using CNN
 total 2732 48 x 48 gray scale images of total 7 types of expression (Happy,Sad,Disgust,Angry,Neutral,Surprised,Fear) are transformed from 3 channeled.
 JPG to single channel and stored in form of .XLSX
 ( Dataset link: https://drive.google.com/drive/folders/13awyvVK0VWEIzYXAFV5gN14Bc-114hNG?usp=sharing )
+- To get password for CNN model(model.h5 is password encrypted as model.7z) of FER contact me @ chovatiya.archil@gmail.com
 
 ### 2)Training
 Values of images are fatched from excel sheet and converted into original numpy of 48 x 48. CNN model is trained by the numpy array of images.
